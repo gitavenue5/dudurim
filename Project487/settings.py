@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'Blog487',  # 나에게 => app 작성  testing  testing2
+    'Blog487',  # 나에게 => app 작성  testing  testing2 testing3
 ]
 
 MIDDLEWARE = [
